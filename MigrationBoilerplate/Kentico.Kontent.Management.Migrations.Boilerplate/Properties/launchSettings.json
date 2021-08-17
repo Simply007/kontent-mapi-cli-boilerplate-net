@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "Project Validate": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"f9613035-d099-0160-a784-4db43c5d4554\" -k \"ew0KICAiYWxnIjogIkhTMjU2IiwNCiAgInR5cCI6ICJKV1QiDQp9.ew0KICAianRpIjogIjViZDExY2E4M2JiZjQzNThiYTQ5M2I2ZmY3ZWFkZDg4IiwNCiAgImlhdCI6ICIxNjI5MjAwOTkyIiwNCiAgImV4cCI6ICIxOTc0ODAwOTkyIiwNCiAgInByb2plY3RfaWQiOiAiZjk2MTMwMzVkMDk5MDE2MGE3ODQ0ZGI0M2M1ZDQ1NTQiLA0KICAidmVyIjogIjIuMS4wIiwNCiAgInVpZCI6ICJ1c3JfMHZNcnBDSDJUa09LNW9LM3kzYktOUyIsDQogICJhdWQiOiAibWFuYWdlLmtlbnRpY29jbG91ZC5jb20iDQp9.hciRWVHRp83MXyan4TH2R8nBt8jRBEkrITdsYCUlI48\" project validate"
+    },
+    "CreateContentType": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"f9613035-d099-0160-a784-4db43c5d4554\" -k \"ew0KICAiYWxnIjogIkhTMjU2IiwNCiAgInR5cCI6ICJKV1QiDQp9.ew0KICAianRpIjogIjViZDExY2E4M2JiZjQzNThiYTQ5M2I2ZmY3ZWFkZDg4IiwNCiAgImlhdCI6ICIxNjI5MjAwOTkyIiwNCiAgImV4cCI6ICIxOTc0ODAwOTkyIiwNCiAgInByb2plY3RfaWQiOiAiZjk2MTMwMzVkMDk5MDE2MGE3ODQ0ZGI0M2M1ZDQ1NTQiLA0KICAidmVyIjogIjIuMS4wIiwNCiAgInVpZCI6ICJ1c3JfMHZNcnBDSDJUa09LNW9LM3kzYktOUyIsDQogICJhdWQiOiAibWFuYWdlLmtlbnRpY29jbG91ZC5jb20iDQp9.hciRWVHRp83MXyan4TH2R8nBt8jRBEkrITdsYCUlI48\" contentType create test01"
+    },
+    "Add element to type": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"f9613035-d099-0160-a784-4db43c5d4554\" -k \"ew0KICAiYWxnIjogIkhTMjU2IiwNCiAgInR5cCI6ICJKV1QiDQp9.ew0KICAianRpIjogIjViZDExY2E4M2JiZjQzNThiYTQ5M2I2ZmY3ZWFkZDg4IiwNCiAgImlhdCI6ICIxNjI5MjAwOTkyIiwNCiAgImV4cCI6ICIxOTc0ODAwOTkyIiwNCiAgInByb2plY3RfaWQiOiAiZjk2MTMwMzVkMDk5MDE2MGE3ODQ0ZGI0M2M1ZDQ1NTQiLA0KICAidmVyIjogIjIuMS4wIiwNCiAgInVpZCI6ICJ1c3JfMHZNcnBDSDJUa09LNW9LM3kzYktOUyIsDQogICJhdWQiOiAibWFuYWdlLmtlbnRpY29jbG91ZC5jb20iDQp9.hciRWVHRp83MXyan4TH2R8nBt8jRBEkrITdsYCUlI48\" contentType addElement --elementName \"test element\" --contentTypeId \"fa79e290-dfcc-46d2-97a7-89acaa139277\" --elementType \"rich_text\""
+    }
+  }
+}
